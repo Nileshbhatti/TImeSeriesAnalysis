@@ -1,2 +1,2 @@
 # TImeSeriesAnalysis
-ATM Forecast
+ATM cash Forecast using ARIMA MODEL
